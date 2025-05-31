@@ -54,13 +54,13 @@ LLM 모델은 현수막 문구를 분석해 **정치 / 공익 / 상업 / 기타*
 
 ### 📸 신고 데모
 
+- 지정게시대에 있는 현수막은 추가 처리를 하지 않고 바로 합법으로 판단내린다.
 - 상업 중 불법인 경우 업체명과 전화번호 등의 추가정보를 추출한다. 
 
 
-| 합법 현수막(지정게시대) | 합법 현수막 (회전된 경우) | 불법 현수막(상업) | 불법 현수막(상업) |
-|-------------|---------------|---------------|----------------|
-| <img src="https://github.com/user-attachments/assets/bb18dcaf-a7d9-4d3d-9a92-bd923348969e" width="200"/> | <img src="https://github.com/user-attachments/assets/96fa338c-a0cd-416b-9aee-a16d0f706b6f" width="200"/> |<img src="https://github.com/user-attachments/assets/1755eeea-0972-468e-ae6e-f77aae98ecb2" width="200"/>  | <img src="https://github.com/user-attachments/assets/72b8ba55-9c92-4178-bfd3-621cf0117838" width="200"/> |
-
+| 합법 현수막 (지정게시대) | 합법 현수막 (회전된 경우) | 합법 현수막 (공익) | 불법 현수막 (상업 1) | 불법 현수막 (상업 2) |
+|--------------------------|---------------------------|--------------|-----------------------|-----------------------|
+| <img src="https://github.com/user-attachments/assets/bb18dcaf-a7d9-4d3d-9a92-bd923348969e" width="200"/> | <img src="https://github.com/user-attachments/assets/96fa338c-a0cd-416b-9aee-a16d0f706b6f" width="200"/> | <img src="https://github.com/user-attachments/assets/6f68b0a5-37ae-47f6-b3b6-32b74a0e0544" width="200"/> | <img src="https://github.com/user-attachments/assets/72b8ba55-9c92-4178-bfd3-621cf0117838" width="200"/> | <img src="https://github.com/user-attachments/assets/1755eeea-0972-468e-ae6e-f77aae98ecb2" width="200"/> | 
 
 ## ⚙️ 시스템 구조
 
