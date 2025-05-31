@@ -1,5 +1,5 @@
-# BANner it!   
-AI 기반 불법 현수막 탐지 및 자동 신고 시스템  
+# BANner it!  | AI 기반 불법 현수막 탐지 및 자동 신고 시스템  
+
 ![인공1-05-TEAM FITFIT-PPT](https://github.com/user-attachments/assets/224f194f-e876-4f67-ac32-b20d4a612d0e)
 
 ## 📚 목차
