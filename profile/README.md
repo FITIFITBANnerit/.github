@@ -41,7 +41,18 @@ LLM 모델은 현수막 문구를 분석해 **정치 / 공익 / 상업 / 기타*
 - 사진 촬영 |  사용자 앱에서 현수막 촬영
 - 자동 판별 | AI 파이프라인을 통한 불법 여부 판별
 - 신고 및 저장 | 불법 판단 시 즉시 신고, 이력 저장
-- 신고 내역 확인 | 앱 내 기록 열람 기능 제공       
+- 신고 내역 확인 | 앱 내 기록 열람 기능 제공
+  
+![프레젠테이션3](https://github.com/user-attachments/assets/59f67be7-1198-4661-a044-fc34fc783ce0)
+
+## 📸 신고 데모
+
+- 상업 중 불법인 경우 업체명과 전화번호 등의 추가정보를 추출한다. 
+
+
+| 합법 현수막(지정게시대) | 합법 현수막 (회전된 경우) | 불법 현수막(상업) | 불법 현수막(상업) |
+|-------------|---------------|---------------|----------------|
+| <img src="https://github.com/user-attachments/assets/bb18dcaf-a7d9-4d3d-9a92-bd923348969e" width="200"/> | <img src="https://github.com/user-attachments/assets/96fa338c-a0cd-416b-9aee-a16d0f706b6f" width="200"/> |<img src="https://github.com/user-attachments/assets/1755eeea-0972-468e-ae6e-f77aae98ecb2" width="200"/>  | <img src="https://github.com/user-attachments/assets/72b8ba55-9c92-4178-bfd3-621cf0117838" width="200"/> |
 
 
 ## ⚙️ 시스템 구조
