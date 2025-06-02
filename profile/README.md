@@ -70,8 +70,7 @@ LLM 모델은 현수막 문구를 분석해 **정치 / 공익 / 상업 / 기타*
 
 ### AI 파이프라인 구성
 
-![image](https://github.com/user-attachments/assets/ddd08cc2-585f-4268-8e26-7443d699a2ef)
-![image](https://github.com/user-attachments/assets/54778f2a-f3e4-423e-a4c8-e1a16f9d1ff0)
+![ai diagram (15)](https://github.com/user-attachments/assets/880338c4-da2e-45a1-9ad2-b8c2f96612ec)
 
 
 ## ⚙️ 핵심 기술 스택
