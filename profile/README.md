@@ -75,10 +75,10 @@ LLM 모델은 현수막 문구를 분석해 **정치 / 공익 / 상업 / 기타*
 
 ## ⚙️ 핵심 기술 스택
 
-- frontend
-  - Android
+- Frontend
+  - Android (Jetpack Compose, MVVM)
     
-- backend
+- Backend
   - java Spring Boot
   - mysql 
     
