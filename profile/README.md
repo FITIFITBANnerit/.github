@@ -91,6 +91,8 @@ LLM 모델은 현수막 문구를 분석해 **정치 / 공익 / 상업 / 기타*
   - S3
   - RDS
 
+## AI / dataset
+[AI-model-train](https://github.com/FITIFITBANnerit/AI-model-train)
 
 ## 📊 모델 성능 요약
 
